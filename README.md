@@ -44,7 +44,7 @@ prisma migrate dev
 Aplicar migrações: Aplique as migrações ao banco de dados com o seguinte comando:
 
 ```
-prisma db push
+prisma db_shopper push
 ```
 Agora, você configurou com sucesso um banco de dados MySQL e integrou-o ao seu projeto usando o Prisma.io. Você pode começar a criar modelos e acessar o banco de dados de forma mais conveniente usando o Prisma.
 
